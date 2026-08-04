@@ -1,5 +1,5 @@
 # synthetic-data-generator
-
+## Info
 This project generates synthetic injection histories for an arbitrary number of injection wells. 
 The generated data can be used to test and validate models using this data as the input such as the Capacitance-Resistance Model (CRM) that uses injection rates.
 
